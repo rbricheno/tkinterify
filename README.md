@@ -1,5 +1,5 @@
 # tkinterify
-An easy way to turn a CLI implemented with click into a GUI using tkinter.
+An easy way to turn a CLI implemented with [click](https://github.com/pallets/click) into a GUI using [tkinter](https://docs.python.org/3/library/tkinter.html#module-tkinter).
 
 This allows you to type function names into a text input box, and have the output appear when you click "Run". Your commands must first be added to a group to use this.
 

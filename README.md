@@ -31,3 +31,4 @@ cli.add_command(my_other_function)
 # tkinterify(cli, app_name="My functions")
 tkinterify(cli)
 ```
+Made for fun to answer [this question on stackoverflow](https://stackoverflow.com/questions/52931235/) (to which the real answer is probably "don't do that").
